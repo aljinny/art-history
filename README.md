@@ -4,7 +4,7 @@ Jin Kim, Byunghwee Lee, Taekho You, and Jinhyuk Yun, “Context-aware Multimodal
 
 ## Prerequisites
 All analyses were performed with the following versions of packages:
-Stable Diffusion: 2.0 (available in https://github.com/Stability-AI/stablediffusion)
+* Stable Diffusion: 2.0 (available in https://github.com/Stability-AI/stablediffusion)
 * Python: 3.8.5
 * NumPy: 1.23.1
 * PyTorch: 2.0.1
